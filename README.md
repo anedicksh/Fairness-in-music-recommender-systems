@@ -1,1 +1,1 @@
-# Fairness in music recommender systems
+# Fairness in Music Recommender Systems
