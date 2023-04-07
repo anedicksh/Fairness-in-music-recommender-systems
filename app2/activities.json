@@ -1,0 +1,108 @@
+[
+    {
+        "track_id": 448,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:03:11.796479"
+    },
+    {
+        "track_id": 402,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:03:14.454762"
+    },
+    {
+        "activity": "More Rock",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:03:19.924688"
+    },
+    {
+        "activity": "More Indie",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:03:26.221242"
+    },
+    {
+        "track_id": 52,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:03:30.264801"
+    },
+    {
+        "track_id": 387,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:03:56.832846"
+    },
+    {
+        "activity": "More Rock",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:04:04.387944"
+    },
+    {
+        "activity": "More Indie",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:04:08.519011"
+    },
+    {
+        "track_id": 42,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:04:41.286508"
+    },
+    {
+        "track_id": 20,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:04:47.036190"
+    },
+    {
+        "track_id": 40,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:04:50.450600"
+    },
+    {
+        "track_id": 311,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:02.692195"
+    },
+    {
+        "activity": "More Hip Hop/ Rap",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:08.051415"
+    },
+    {
+        "activity": "More Pop",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:23.851433"
+    },
+    {
+        "activity": "More Rock",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:29.333600"
+    },
+    {
+        "activity": "More Indie",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:30.300748"
+    },
+    {
+        "track_id": 331,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:33.459617"
+    },
+    {
+        "track_id": 339,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:34.937473"
+    },
+    {
+        "track_id": 313,
+        "activity": "Select Song",
+        "user_id": 0,
+        "datetime": "2023-04-06 18:05:38.169161"
+    }
+]
