@@ -1,6 +1,8 @@
 # Fairness in Music Recommender Systems
 
-Design of a prototype recommender system that implements fairness through the mitigation of popularity bias. 
+This project consists of designing a prototype recommender system that implements fairness through the mitigation of popularity bias. Python was the programming language used throuhgout the project and Streamlit was the app framework used to create a web app, which is used in Data Science and Machine Learning.
+
+Side notes:
 
 The login details can be found in login_data.csv. 
 The Data_Synthesis.pynb was used to synthesize user listening behavior for 300 users. 
